@@ -1,0 +1,2 @@
+# Ignore the RESISC45 dataset folder
+/RESISC45/NWPU-RESISC45/
