@@ -1,4 +1,4 @@
-#GeoSceneFusion
+##GeoSceneFusion
 
 This project implements a hybrid deep learning pipeline to **classify satellite images** into **Urban** and **Rural** categories. It combines transfer learning on **EfficientNet‑B0** with a custom CNN head to achieve strong performance on the **NWPU‑RESISC45** benchmark.
 
