@@ -40,8 +40,8 @@ Automatically distinguish urban from rural land covers in satellite imagery to s
 
 1. **Clone**  
    ```bash
-   git clone https://github.com/your-username/satellite-image-classification.git
-   cd satellite-image-classification
+   git clone https://github.com/Shubhammalhotra001/GeoSceneFusion.git
+   train_resisc45.py
 ## Install dependencies
 pip install -r requirements.txt
 
